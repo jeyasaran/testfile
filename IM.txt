@@ -156,4 +156,200 @@ needed to keep the molding machine operational.
 CONTROL PANEL - The control panel 
 contains the electrical circuitiY and controls ne e d e d 
 to operate the injection, ejection, clamping, cycling 
-and safety systems of the molding machine. 
+and safety systems of the molding machine.
+INJECTION MOLD AND AUXILIARY COMPONENTS 
+1. WATER MANIFOLD - Hoses connect the 
+manifold to the water circuits in the mold to provide 
+cooling so that the plastic solidifies into the desired 
+form in as short a period of time as possible. There 
+are both water feed and return lines in the manifold. 
+Feed lines are usually blue and return lines red in 
+color. 
+2. AIR MANIFOLD - Some molded parts require 
+air assisted ejection to fall free from the mold. Air 
+nozzles from the air manifold are mounted on or 
+intemally machined within the mold to apply a small 
+jet of air at ejection. Occasionally valve gates in Hot 
+Manifold systems are air actuated. These may need 
+to be activated in both open and close directions. 
+These are just two applications for which the air 
+manifold may be used. The solenoids, which activate 
+the air manifold, are usually controlled by the Central 
+Processing Unit (CPU) in the molding machine. 
+3. MOLD The mold is shown in the above 
+illustration from a top-view to illustrate the position 
+of the ejector housing. The housing is normally 
+mounted in the vertical plane to prevent debris from 
+catching on the ejector plates and restricting ejection. 
+Covers are sometimes mounted over this area to 
+prevent plastic parts, granules, or other debris from 
+entering the ejector housing. 
+4. MOLD CLAMPS A minü-num of eight (8) 
+clamps are generally required to hang the mold in the 
+molding machine (4 on each mold half). They are 
+bolted to the platens and clamped into the clamp slots 
+in the mold base. The mold must be aligned to the 
+ejector bars radially prior to tightening the mold 
+clamps. 
+5. HYDRAULIC MANNOLD - When a mold 
+requires hydraulic pressure, i.e., unscrewing rack, 
+hydraulic slides. etc., the molding machine can 
+provide the hydraulic pressure via the hydraulic 
+manifold. The sequence of the hydraulic in and out 
+activation is controlled within the molding cycle by 
+the CPU of the molding machine.
+This portion of the injection molding machine is 
+called the injection unit or the "sled". 
+It gets its 
+nickname because the entire unit can hydraulically 
+slide away from the mold along tracks or rails. This 
+is necessary to allow access to the nozzle. When 
+changing plastic resin type, getting rid of 
+contaminated or degraded material (due to it being in 
+the barrel at melt temperature for a prolonged period 
+of time) it is necessary to purge the material from the 
+ban•el before it enters the mold. The injection unit 
+must be moved away from the mold to accomplish 
+the purging action. The injection unit position must 
+also be adjustable because sprue bushing seat 
+positions may vary mold to mold. 
+Injection unit sizes are called out based on the 
+maximum amount of plastic material they can 
+dispense with one forward stroke of the injection 
+screw plunger assembly. For example, a 20 ounce 
+injection unit is capable of injecting a maximum of 
+20 ounces of plastic into a mold in each shot. Plastic 
+matelial may be injected into a mold in amounts less 
+than 20 ounces by metering less material in front of 
+the screw before injecting.
+
+The plasticizing unit of the Inolding machine is made 
+up of a heated barrel, nozzle, reciprocating screw, 
+check ring, hydraulic cylinder(s), and rotary 
+hydraulic motor. 
+The reciprocating screw is attached directly to the 
+hydraulic ram at the end of the unit. The ram is also 
+connected to a hydraulic motor which gives the 
+system two separate motions. The screw can be 
+pushed forward as a plunger or it can be rotated as an 
+auger. 
+
+The actual injection sequence staffs in the middle, in 
+other words there must be melted plastic (metered 
+plastic material) at the front of the screw to start the 
+sequence (as illustrated). *Ihe reciprocating screw is 
+pushed forward. acting as a plunger to push the 
+melted plastic through the nozzle and into the mold. 
+This is done at very high pressure. During the 
+injection, the check ring closes so that the melted 
+plastic in front of the screw is sealed off and cannot 
+escape back down the flights of the screw. 
+When the mold is full, the injection pressure is kept 
+up to force even more plastic into the mold to make 
+up for the shrinkage that occurs as the plastic cools. 
+This process is called "packing" and is accomplished 
+in the hold sequence of the molding cycle. Packing is 
+only effective until gates in the mold cavities solidify 
+or "freeze-off. 'f 
+When the packing process is complete and the mold 
+is held closed during the cooling cycle, the 
+reciprocating screw begins to rotate, moving the 
+check ring off its seat and advancing more plastic 
+along its flights to the front of the screw. Since the 
+plastic has nowhere to go, it builds up pressure which 
+pushes the screw back. If the screw were allowed to 
+back up without resistance there would not be 
+sufficient compression of the plastic to generate heat 
+and compact the plastic; therefore, a small amount of 
+hydraulic pressure is kept behind the screw to 
+provide some resistance. This is done through a 
+restriction on the return line of the hydraulic screw 
+motor. 
+The back pressure (compression) and the shear of the 
+plastic as it moves past the screw flights while the 
+screw rotates generate friction. This compression 
+and friction generate heat which accounts for up to 
+70% of the heat needed to melt the plastic. The rest 
+of the needed heat is provided by the heater bands 
+which sunound the barrel. Thermocouples are 
+incozporated to control the amount of additional heat 
+applied. 
+When the ban•el has melted enough plastic for the 
+next shot, the screw will have been pushed back 
+through screw rotation and back pressure, as 
+described above, to a predetermined position. This 
+can be witnessed by looking at the plastic metering 
+indicator (shown on page 2-6). At this point the 
+rotation stops. The mold is opened following the 
+allotted cooling time. The plastic parts are evacuated 
+from the mold and the mold closes. The screw is 
+again used as a plunger to inject the next shot of 
+melted plastic into the mold as tlle cycle repeats. 
+
+Toggle Clamp Injection Molding Machines are the 
+most common in use today palticularly in the smaller 
+tonnage machines. The toggle clamps are popular 
+since they are relatively inexpensive to manufacture. 
+They are also more economical to operate than a 
+hydraulic clamp machine since smaller hydraulic 
+pumps and cylinders are required. A hydraulic clamp 
+machine requires a very large cylinder in the center 
+of the platen to apply full clamp tonnage with 
+hydraulic pressure only and no mechanical 
+advantage. (This variation is not illustrated). The 
+toggle clamp machine features include; a high 
+mechanical advantage at lockup, built-in clamp slow- 
+down, slow mold breakaway, and rapid clamp 
+operation. The clamp cylinder moves the crosshead 
+forward, extending the toggle links and moving the 
+moveable platen forward. As the clamp closes, the 
+mechanical advantage is low, resulting in rapid platen 
+movement. As the platen approaches the mold-close 
+position, the toggle links move from a high-speed/low 
+mechanical advantage to a low-speed/high 
+mechanical advantage. This low speed is critical for 
+mold protection and high mechanical advantage is 
+necessary to provide the needed clamping pressure, 
+Once the linkage is fully extended, hydraulic pressure 
+is not needed to hold the tonnage. It is important to 
+note that the tie bars are slightly longer in the 
+clamped state than they are in the static state relative 
+to the tonnage being applied. 
+
+To open the clamp, hydraulic pressure is applied to 
+the opposite side of the clamp cylinder, slowly 
+opening the mold to prevent damage to the molded 
+pms. The entire sequence is controlled by the CPU 
+in the molding machine. 
+
+ 
+In this, the final phase of the molding cycle, the 
+plastic parts are evacuated or ejected from the mold. 
+The injection mold is generally designed so that the 
+plastic pans stay with the "B" side of the mold upon 
+mold opening. 
+When the moveable platen opens the mold at the 
+parting line (P/L) to the point that the plastic parts 
+may be ejected, the moveable platen stops and the 
+ejection cylinder is energized. The ejection cylinder 
+then activates the ejector platen. The movement of 
+the ejector platen is transferred to the ejector system 
+within the mold itself by the ejector rods. The mold 
+ejector system in turn ejects the plastic parts from the 
+mold. This completes the molding cycle. 
+To speed up the molding cycle, many times the 
+ejection is activated "On the Fly". When the parting 
+fine opens and the parts clear the "A" side of the 
+mold, the ejection is activated so that the parts are 
+free of the mold by the time the opening motion 
+stops. In this way, the mold does not have to stay 
+open while the parts are ejected but may be 
+immediately closed. 
+In other cases, the ejection is not activated until a 
+robot comes in contact with the parts. This delay 
+allows the parts to be removed without being 
+damaged or may be done for orientation purposes in 
+assembly equipment. As with the other phases of the 
+molding cycle previously covered, the ejection is 
+controlled by the CPU of the molding machine. 
+  
