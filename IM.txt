@@ -351,5 +351,886 @@ allows the parts to be removed without being
 damaged or may be done for orientation purposes in 
 assembly equipment. As with the other phases of the 
 molding cycle previously covered, the ejection is 
-controlled by the CPU of the molding machine. 
-  
+controlled by the CPU of the molding machine.
+SUMMARY 
+The basic Mold Sequencing Operation is as follows: 
+ 
+1.The moveable half of the mold closes on the stationary half of the mold with enough 
+clamping pressure to hold both halves together without P/L flash during the injection 
+of the plastic. 
+2.Plastic is injected into the mold and packed. 
+3.The mold stays closed long enough to allow the molten plastic to solidify while the 
+injection unit rotates and feeds material for the next shot into position. 
+4.The mold is then opened and the pan is ejected. 
+5.The cycle repeats. 
+
+MOLDING PROCESSES 
+s with plastic materials, there are a wide 
+variety of plastic processes. Of these 
+various processes, there are seven that are 
+most common. These include; cxtrusion molding, 
+compression / transfer molding, thermoforming, 
+extrusion-blow molding, injection stretch-blow 
+molding, rotational molding, and injection molding. 
+The selection of which process to use is related to 
+cost. shape, product design/detai_l and to the volume 
+of product to be produced. The highest volume, 
+lowest cost per item producer of plastic components 
+is injection molding. It is also the most expensive 
+process in which to manufacture the mold. As you 
+will leam in a later chapter, there are scveral 
+moldmaking techniques that affect the price, 
+performance, and volume of production. 
+Several of the aforementioned processes share one 
+thing in common, the extruder. 
+It is a major 
+component in the injection, extrusion, blow molding, 
+and injection stretch-blow molding processes yet the 
+products produced from these processes are totally 
+different. On the other hand, the products produced 
+by the thermoforming or compression molding 
+processes are somewhat similar. Rotational molding 
+is probably the slowest process and most intriguing 
+because of the size and shapes of the products it can 
+produce. 
+Injection molding, extrusion molding, blow molding, 
+injection suetch-blow molding, and rotational 
+molding all utilize plastic material generally in a 
+pellet form. Thermoforming and compression 
+molding begin with a sheet or puck of plastic that is 
+heated and (hen draped or compressed into the 
+desired shape. 
+The following process descriptions are based on the 
+basic fundamentals of each process. 
+Several 
+processes have additional features that can be added 
+to the equipment to enhance lhe speed of operation, 
+size, or control the actual process. 
+Each of these processes allows a company to 
+manufacture its product based on the volumes it can 
+SCI]. For example, a start-up company wants to 
+market a product. a picture frame, but has limited 
+capital to produce and sell milfions. With a minor 
+investment of capital. this product could bc extruded. 
+The major drawback would be that the product would 
+have to be hand assembled, requiring labor costs 
+which add to the selling price. 
+Moving up the process ladder, this same frame could 
+be themoformed or compression molded. Additional 
+detail could be added to the part and it could be 
+molded in one piece. Production speeds would be 
+increased and assembly labor costs would be lowered 
+but not cömpletely eliminated. Both processes would 
+produce large amounts of scrap material because the 
+center of the frame would have to be trimmed out. 
+If thesc same frames were injection molded, the 
+problems experienced with extmsion and either 
+thermoforming or compression molding could be 
+climinatcd. Millions of frames could be produced 
+with little scrap and no assembly labor costs. This 
+would make the cost per item the [owest of all 
+manufacturing processes; 
+however, the capital 
+investment required for equipment and tooling would 
+be much higher. 
+
+EXTRUSION PROCESS 
+Plastics Exuusion Pnocessing is defined as convefiing 
+plastic powder or granules into a continuous uniform 
+melt and forcing this melt through a die which yields 
+a desired shape. The continuous extruded shape 
+moves through the cooling section and at some point 
+is cut to the desired length. It is held in the desired 
+shape until cooled so that an end product can be 
+tealized. Some common items produced by the 
+*trusion process include house siding, pipe, tubing, 
+trim, plastic sheets, plastic wrap, etc. 
+
+The plastic is introduced into the screw 
+where friction and external heat sources 
+melt it so that it reaches the extrusion 
+die system in a totally melted state. 
+The melted plastic is forced through a 
+die or dies of the appropriate size and 
+shape for the finished product being 
+produced. 
+The finished palt is cooled and cut to length. 
+The method of cooling depends upon the product 
+being produced. Sheet products are cooled and sized 
+on highly polished and liquid cooled rollers. Pipe 
+and tubing are cooled through simple open water 
+troughs or pulled through vacuum sizing tanks, where 
+the melt is held in a sizing sleeve for a short time in a 
+water filled vacuum chamber. Other products are 
+cooled by forced air or water spray methods. 
+The screw of the extruder is the only mechanical 
+feature which parallels the injection molding process. 
+This process does not require the high injection 
+pressure or mold clamping as is typical in injection 
+molding. 
+Note: Due to the continuous screw feeding of the 
+plastic material, shear heats in excess of the specified 
+plastic processing temperatures can be reached. If 
+this happens. the heating bands used for stalt-up will 
+be turned off and air blowers will be turned on and 
+monitored by thermocouples to maintain the proper 
+processing temperature.  
+
+COMPRESSION / TRANSFER MOLDING 
+Compression / Transfer molding generally uses 
+themwset plastics. It has an advantage in the fact 
+that the system involved is relatively simple. In 
+compression molding the plastic material is placed 
+in a heated cavity and the mold halves are closed 
+under high pressure for the required cure time. 
+Tooling costs are relatively moderate because of 
+the simplicity of the molds in comparison to 
+injection molds. 
+The equipment for compression molding consists 
+of two vertically opening platens which close 
+together. A mold is placed between these platens. 
+Heat and clamp pressure are applied to the mold 
+which forms the material into the desired shape 
+and supplies the catalyst which cures the plastic. 
+Most Compression Presses are hydraulically 
+operated. The platens move up and down on four 
+corner posts under pressures that generally range 
+from 20 to 1000 tons. 
+Heat is provided by a variety of methods 
+depending on the equipment. Presses are available 
+that use steam, electrical heating elements, hot oil, 
+or hot water as the heat source. 
+The compression molding machine has the 
+clamping and in some cases the ejection features of 
+the injection molding machine. Generally none of 
+the features associated with the injection unit of the 
+injection molding machine will be found on a 
+standard compression molding machine. 
+Higher production machines are available which 
+use injection units. Care must be taken to heat the 
+plastic only enough to move the material into the 
+mold. Higher temperatures would cause the 
+thermoset material to permanently solidify 
+chemically in the barrel. 
+COMPRESMON AND TRANSFER MOLDING 
+The molding press for these two molding methods is 
+similar. The difference is in the mold itself. In 
+Compression molding, the plastic material is placed 
+in the heated mold cavity. When the pre-wanmed 
+plastic material has reached a consistency of putty, 
+the mold is closed causing the softened plastic to 
+assume the shape of the mold cavity. After it has had 
+sufficient time to cure, the mold is opened and the 
+finished molded part is removed. Overfill wells are 
+provided to accomodate the difference in plastic 
+matelial mequired by the mold and the slight amount 
+of extra material contained in the puck to assure the 
+cavity is filled. 
+Transfer molding works on much the same principle. 
+The primary difference is in how the plastic material 
+enters the mold cavity. In transfer molding, the mold 
+is loaded into the press in a closed condition. A well 
+is incorporated into the top plate of the mold. A 
+specific amount of pre-warmed plastic, whether in 
+granular, pellet, or puck form, is placed into this well 
+relative to the cavity shot size. A small amount of 
+*tra material is included to assure proper packing- 
+Within the actual mold, channels are cut to deliver 
+the plastic to the cavity or cavities. In the case of a 
+multiple cavity mold, a mnner system would be 
+incorporated. Once the plastic has reached the 
+orocessing temperature, the press is slowly closed, 
+oushing down on the plunger. The plunger forces the 
+'lastic down through the sprue plate and into the 
+tunners and channels of the mold which canies the 
+31astic into the mold cavity. Instead of overfill wells 
+as in compression molding, the additional material 
+remains in the cull. This allows for a parting line 
+which generally will not require trimming. After the 
+plastic has time to cure under a controlled 
+temperature and pressure, the press is opened and the 
+mold removed. The mold is then opened and the 
+spme removed from the cull (the cull is the excess 
+plastic left in the well to assure proper packing). This 
+allows the molded part along with the lunner, 
+applicable, and sprue to be removed from the mold as 
+a unit. The sprue is trimmed in a secondary operation 
+if it feeds directly into the part as illustrated. 
+There are more sophisticated compression / transfer 
+molding machines in use that do many of the above 
+covered steps automatically including ejection of the 
+finished part. 
+THERMOFORMING PROCESS 
+Thermoforming is the forming of extrusion molded 
+thermoplastic sheet with heat and pressure (or 
+vacuum) to force the hot sheet of plastic against a 
+mold face. It is the fabrication method by which the 
+most pounds of thermoplastic materials are converted 
+into useful end products. By starting with an 
+extruded sheet of plastic and a mold, using heat and 
+air pressure or vacuum, the sheet is drawn into a 
+wanted form. 
+All of the variations in fuming techniques have a 
+common ground in getting movement (stretching, 
+forming) of the heated sheet by applying air pressure, 
+vacuum, or a combination of the two. Depending on 
+the details to be reproduced from the mold, either of 
+these methods might be used. When very high 
+pressures are needed, a chamber is sealed to the top 
+side of the sheet and pressures are built up within the 
+chamber by the use of compressed air or steam. Such 
+a pressure system can produce very fine surface 
+details when used with oriented materials. 
+STRAIGHT VACUUM FORMING 
+STRAIGHT FORMING OR CAVITY FORMING 
+1) The heated sheet of plastic is clamped over a 
+cavity or mold box. 
+2) Air pressure is used to force the heated 
+plastic sheet against and into the shape of 
+the mold. 
+3) The part is cooled and removed from the 
+mold. 
+
+
+
+A positive mold may be used inside a mold box. 
+Parts made by straight forming in a cavity will have 
+two predictable features; (1.) the sharpest details will 
+be on the outside of the part and (2.) the thickest 
+sections will be at the extemal corners and the 
+thinnest sections will be at the internal corners of the 
+plastic part. 
+None of the features (clamping, injecting, and 
+ejecting) are comparable in the same form as 
+injection molding in the thermoformng process. 
+1)A sheet of plastic is placed over the surface 
+of the tool (mold). 
+2)Heat is applied to bring the plastic to the 
+right fon•ning temperature.  
+3)The air between the mold and the plastic 
+sheet is removed causing a vacuum thus 
+pulling the plastic down around the mold. 
+4) The molded part is cooled and removed 
+from the machine. 
+5.) The part is trimmed to specifications. 
+
+EXTRUSION-BLOW MOLDING 
+Extrusion-Blow Molding is the process most 
+commonly used for 
+the production of hollow 
+thennoplastic components such as bottles, jars, toys, 
+fuel tanks, etc. 
+The extmsion process is defined as making a product 
+by forcing material through an orifice or die. The 
+exfiusion-blow molding process consists of five 
+steps: 
+1) extrusion of the plastic parison (hollow 
+plastic tube) 
+2)closing of two mold halves around the 
+parison, clamping the mold, and cutting the 
+parison thereby sealing off the bottom of the 
+tube much like a balloon 
+3) blowing the parison against the cooled walls 
+of the mold cavity, calibrating the opening, 
+and holding it under air pressure during the 
+cooling time 
+4) opening the mold and removing the blown 
+part 
+5) finishing the part by trimming off the flash 
+from the overflow areas
+
+ 
+
+
+ 
+The Exhusion-B•Iow Molding machine illustrated 
+above has two molds which move left and right 
+during operation and two blow stations. While the 
+right mold is receiving an extruded parison, the 
+parison in the left mold is being blown. Once the 
+blown pan has cooled and been ejected from the left 
+mold, the table moves to the right so that the now 
+empty left mold can receive a parison and the parison 
+in the right mold can be blown. 
+Plastic delivery is much the same as in the Extrusion 
+process in that the screw extrudes the material and 
+there is no need for high pressure injection. In 
+addition to the screw on the injection side, Extmsion- 
+Blow molding incorporates mold clamping as in 
+injection molding. There is, however, no need for 
+exteme high pressure clamping as found in injection 
+molding. 
+
+INJECTION STRETCH-BLOW MOLDING 
+Injection Stretch-Blow Molding is a three or four 
+stage process for producing completely finished 
+plastic containers. 
+Stage 1: The plastic is injection molded into a 
+preform cavity where a preform is created. The neck 
+finish (threads) of the container is molded as well as 
+the shape of the preform, as the plastic is injected 
+around the core pin and into the prefonn mold. 
+Stage 2: In four stage machines, the preform is 
+temperature conditioned (brought up to the correct 
+temperature for stretching and blowing) at this stage. 
+The temperature conditioning takes place at stage 1 
+on three stage machines. 
+Stage 3: The Blow Mold closes around the preform 
+and a stretch rod enters the prefonn from the top and 
+stretches the hot plastic to the bottom of the mold. At 
+the same time, high pressure air is introduced to blow 
+the preform out to the shape of the blow mold cavity. 
+Stage 4: After a sh01t cooling period the finished 
+container is ejected from the machine. 
+Injection-Blow molding offers many imponant 
+advantages in the production of plastic containers. 
+It produces scrap flee, close tolerance, 
+completely finished containers that require 
+no secondary operation. 
+It offers positive weight control in the finished 
+container (accurate to ± 0.1 a). 
+Neck shapes and finishes can be molded 
+with extreme accuracy (± 0.004 inch). 
+Container weights and dimensions are 
+repeatable. 
+The stretching of the plastic bi-axially orients it 
+which greatly increases its strength. 
+This process incorporates a full injection molding 
+machine and couples it with a system as found in 
+Extrusion-Blow molding to blow injection molded 
+forms into irregular shapes which are not able to be 
+injection molded due to coring. 
+ROTATIONAL MOLDING 
+Rotational molding is a process for producing hollow 
+products of all sizes and shapes without cores or air 
+assist. Since it does not lequire high injection 
+pressures, high shear rates, or precise metering of 
+plastic, the molds and machinery for rotational 
+molding are normally low cost and long lasting. 
+The basic process is quite simple. 
+1) Powdered,granulated or liquid polymer (plastic) 
+is placed in a mold. 
+2) The mold is heated while being rotated a b o u t 
+two pelpendicular axes simultaneously. Duri ng 
+the first part of the heating stage, when molding 
+with powdered material, a porous skin is forned 
+on the mold surface. This gradually melts as the 
+cycle pogresses to form a homogeneous layer of 
+unifonn thickness. When, a liquid material is 
+used, it flows and coats the mold surface until 
+the gel temperature of the resin is leached, at 
+which time all flow stops. 
+3) The mold is then indexed into a cooling station 
+where it is cooled by forced air or water spray. 
+4) It is then positioned in a work zone, where the 
+mold is opened, the finished part removed, and 
+the mold recharged with material for the next 
+cycle. 
+The most popular rotomolding system uses a 
+horizontal rotating unit commonly called a carousel. 
+This usually has three arms on which molds are 
+mounted. The arms can be indexed automatically 
+from station to station. 
+Various types of heating systems have been used but 
+the cleaner, lower-cost, safer operation offered by hot 
+air has caused this to be the most widely used system. 
+None of the systems associated with high pressure 
+injection molding are incorporated into a rotational 
+molding machine. 
+
+INJECTION MOLDS 
+hele are many mechanical features which 
+can be incorporated within an injection mold 
+in order to fonn detail found in Injection 
+molded pans. There are also various ways for melt 
+flow to enter a plastic part. Gate location can be 
+crucial to finished molded pmt strength and integrity. 
+Gate style or location can also lessen or conceal the 
+melt entw point (gate) if strategically placed. 
+Some of the most popular plastic part filling and palt 
+ejection variations will be covered in the following 
+chapters. It is important to remember that the 
+combinations of the variations found in the following 
+chapters, as well as some not covered because of 
+their low percentage of incorporation, are governed 
+by: 
+The budget of the project 
+The imagination of the Design Engineer 
+The budget of the mold building project (dictating the 
+number of cavities and quality of the design) is 
+usually governed by the philosophy of the purchasing 
+company and the speed of production required in 
+conjunction with the total number of plastic parts 
+needed. In other words, the number of cavities 
+required in a mold as well as the total number of 
+molds required is determined by asking these 
+questions: 
+How may pans are needed in what span of 
+time? 
+Based on a plastic part of this design 
+and plastic material used, how fast can the 
+mold be expected to run (cycle time)? 
+How many hours per day and days per week 
+are allotted to run this mold? 
+What size molding machines are available? 
+With this infonnation and a fonnula allowing for 
+somewhat less than 100 percent efficiency (to 
+account for mold maintenance and tangible and 
+intangible inefficiencies) mold cavitation can be 
+determined. 
+
+STANDARD MOLD WITH AN 
+EJECTOR PLATE ASSEMBLY 
+The Standard Mold with an ejector plate assembly is 
+generally used when parting line runners are 
+acceptable and ejector pins, sleeves or blades are 
+adequate to remove the molded plastic parts from the 
+mold. 
+The illustration on the next page shows the "A" half 
+plan view of a two cavity mold. The view is looking 
+at the face of the parting line of the "A" half, 
+(stationary half) of the mold. 
+
+1. LEADER / BUSHINGS - A pin and 
+bushing system used to control the alignment of the 
+mold plates. One side of the mold contains the pin 
+and the other the bushing. There are four pins & 
+bushings per mold, located at the outer comers. One 
+bushing set is offset from the others to control the 
+correct assembly. The affected offset corner is 
+identified by an stamped on the appropriate 
+comer of the mold base. It is normally found on the 
+top of the mold on the operator side. 
+2. MOLD BASE SCREWS - Usually socket head 
+cap screws (SHCS) which are used to hold the mold 
+base plates together. 
+3. JIFFY CONNECTORS - A standard purchased 
+item which functions as a water connector. It is used 
+as a quick means to separate molding machine hoses 
+from the mold. The male part is screwed into the 
+mold and the female part is fixed to the molding 
+machine water service. These connectors sometimes 
+contain a water shut-off device and allow a quick 
+connect or disconnect of the cooling water supply to 
+the mold. They must be sized so as not to restrict the 
+water flow designed within the mold. 
+4. SPRUE - The primary feed channel from the 
+injection unit to the runner channel. It is conical in 
+shape with *its small diameter mating with the 
+injection unit This small diameter breaks away from 
+the the molding machine melt flow at the nozzle 
+when the mold opens. The sprue is pulled from the 
+"A" side on mold opening and ejected with the 
+runners. 
+S. EYE BOLTS - These are used to lift the plates 
+and/or the whole mold. Vatious sizes are used 
+depending on the weight they must lift. Large plates 
+have eye bolts on all four sides for safe handling. 
+Each mold has one eye bolt hole positioned on top of 
+the mold at the center of gravity. This main eye bolt 
+is generally located in a separate lift strap which 
+straddles and connects the "A" and "B" halves 
+together so that the two halves do not accidentally 
+come apan while being lifted. (See Lift Straps on 
+
+6. LOCATING-RING - This locates the mold in the 
+molding machine. It profiudes approximately 7/32" 
+above the top clamp plate sulface and locates into a 
+matching recess in the molding machine. The 
+locating ring provides central location between the 
+mold and molding machine. Adjustments must be 
+made rotationally for mold perpendicularity before 
+clamping the mold in place. 
+7. CAVITY - (Ref. page 4-11) The cavity generally 
+produces the external or outside features of the part 
+being molded. The cavity shape is a void or 
+impression that is machined into the steel. Note that 
+the term 'Cavity Side" has become synonymous with 
+the "A" side of the mold. Cavities are generally 
+made of heat treated materials which are compatible 
+with, but not necessarily the same as, the core heat 
+treated materials. 
+8. CLAMPING SLOTS - Slots cut into both sides 
+of the mold and usually running vertically in the 
+press. They are used to clamp the mold to the 
+molding machine. They must be machined long 
+enough to provide for four clamps on each mold half. 
+1. SUPPORT PILLARS • Solid diameter or 
+inegular shaped bars of suitable length to span the 
+distance between the back of the "B" suppout plate 
+and the inside surface of the bottom clamp plate. 
+They generally fixed to the bottom clamp plate 
+and a clearance hole is machined through the ejector 
+plates. They help support the mold under injection 
+and clamping force. Larger molds may require that 
+suppolt pillars be ground with a slight pre-load to 
+prevent plate flexing under high injection force. 
+2. GREASE FITTINGS Purchased items which 
+provide a way to lubricate remote guide pin bushings 
+as well as leader pin bushings by a path cut through 
+the mold base to the bushings. They are generally 
+machined flush with the mold base. 
+3. RETURN PINS A headed pin usually 5/8" or 
+3/4" in diameter incorporated to prevent accidental 
+cavity damage by ejector pins, sleeves or blades. It is 
+retained between the ejector plates and passes 
+through the mold to the main parting line. On mold 
+opening with the ejector plates in the forward 
+position, they generally protrude beyond the parting 
+line. 
+If, on mold closing, the ejector plates have not moved 
+back through molding machine activation or spring 
+returned ejector plates, these pins are pushed back 
+upon contact with the "A" half of the mold. This 
+action, if implemented, returns the ejector plates to 
+the remward position thereby aborting cavity 
+damage. 
+4. LEADER PINS / BUSHINGS- (Ref. page 4-3) - 
+A pin and bushing system used to control the 
+alignment of the mold plates. One side of the mold 
+contains the pin and the other the bushing. There are 
+four pins & bushings per mold, located at the outer 
+comers, one bushing set is offset from the others to 
+control the conect assembly between the two halves 
+of the mold. The affected offset comer is identified 
+by an "01' stamped on the appropriate corner of the 
+mold base. It is normally found on the top of the 
+mold on the operator side. 
+5. GUIDED EJECTION - An integral part of the 
+ejector mechanism used to control the alignment of 
+the ejector and the ejector retainer plates. It usually 
+consists of a bronze coated bushing and a standard 
+guide pin. The bushing is fitted in the ejector 
+assembly plates and is held in place by the bushing's 
+shoulder in the ejector plate. The guide pin is 
+generally retained in the bottom clamping plate and is 
+suspended through the guided ejector bushing in the 
+ejector plates and continues through to the bottom of 
+the support plate. There are generally four in each 
+mold, one in each quadrant with the set in the "O" 
+corner being off-set. 
+6. HOLLOW DOWEL -(A1so know as a Tube 
+Dowel) In this case it is used to align the support 
+plate, the rail housing and the "B" plate. Hollow 
+dowels are generally positioned in the offset comer 
+and the corner diagonally opposite of the offset 
+corner. They are designed to align the mold plates at 
+their O.D. and allow the fastening screws to pass 
+through their I.D. 
+7. JIFFY CONNECTORS (Ref page 4-3) A 
+standard purchased item which functions as a water 
+connector. It is used as a quick means to separate 
+molding machine hoses from the mold. The male part 
+is screwed into the mold and the female part is fixed 
+to the molding machine water service. These 
+connectors sometimes contain a water shut-off device 
+to allow a quick connect or disconnect of the cooling 
+water supply to the mold. They must be sized so as 
+not to restrict the water flow designed within the 
+mold. 
+8. SPRUE PULLER A feature which assists the 
+removal of the sprue from the sprue bushing. It can 
+be an undercut, machined into the mold and located 
+on the same centerline as the splue or it can also be a 
+pin with an undercut shape machined into its end 
+which protrudes into the melt flow path. The 
+undercut feature varies with the plastic material 
+requirements. (Ref. page 4-28) 
+9. EJECTOR PINS - (Also known as Knock-out or 
+K.O.pins) A headed pin which is used to push the 
+molded parts and/or runners from the mold. The pin 
+is held in the mold between the ejector plate and the 
+ejector retainer plate. These plates control the 
+movement of the pins on the ejection stroke. 
+Running clearance is related to the O.D. of the pins 
+as well as the flash factor of the plastic material being 
+injected into the mold. 
+10. CORE A feature which produces holes or 
+internal shapes in a molded part. They can be of any 
+shape: round. square, etc. Cores are generally made 
+of heat treated materials which are compatible with, 
+but not necessarily the same as, the cavity heat 
+treated materials. Cores may be used to form 
+features with a mechanically functional purpose or 
+simply to provide for even, consistent wall sections 
+of the plastic pan. 
+
+MOLD BASE - This is the entire unit which retains, 
+aligns and suppomts the molding insert components 
+and all optional auxiliary equiplnent such as the 
+hydraulic cylinders, unscrewing mechanisms, 
+electrical connectors, etc. The mold base is 
+considered everything except the heat treated mold 
+cavity and core stack assembly. 
+El A" SIDE - Considered to be the part of the mold 
+which clamps to the injection side of the molding 
+machine. It may also have moving plates which are 
+activated upon mold opening. This half of the mold 
+is clamped to the stationary platen of the molding 
+machine. The "Atl side generally contains the cavity 
+and it's related components. 
+"B" SIDE - This is the moving side; the part of the 
+mold which is attached to the moveable half or 
+"clamp" side of the molding machine. The "B" side 
+generally houses the core and itts related components. 
+Nonnally the mold is designed so that the molded 
+part stays on the core upon mold opening to be 
+ejected by activation of the ejector assembly. 
+1. LIFT STRAP - A correctly sized (for the weight 
+of the mold) bar or strap, generally made from low 
+carbon steel or similar metal. It is fastened to the top 
+of the mold and spans all moving plates on "B" side 
+and "All side. In effect, it holds both halves together 
+and provides a surface to attach an eye bolt for lifting 
+the mold. The position of the lifting eye bolt is 
+placed over the center of gravity of the mold so that 
+the mold does not tilt when lifted. 
+2. CORE - (Ref. page 4-8) A feature which 
+produces holes or internal shapes in a molded part. 
+They can be of any shape; round, square, etc. Cores 
+generally made of heat treated materials which 
+are compatible with, but not necessarily the same as, 
+the cavity heat treated materials. Cores may be used 
+to form features with a mechanically functional 
+purpose or simply to provide for even, consistent wall 
+sections of the plastic pan. 
+3. CAVITY - (Ref. page 4-4) The cavity generally 
+produces the external or outside features of the pan 
+being molded. The cavity shape is a void or 
+impression that is machined into the steel. Note that 
+the term "Cavity Side" has become synonymous with 
+the "A't side of the mold. Cavities are generally 
+made of heat treated materials which are compatible 
+with. but not necessarily the same as, the core heat 
+treated materials. 
+4. PARTING LINE INTERLOCKS - This is a 
+system used to align the two mold halves together. 
+The interlock consists of a male and female piece that 
+align with a close sliding fit. They obtain a final 
+close tolerance alignment oveniding that of the 
+looser tolerance Leader pin and bushings as well as 
+the molding machine tie bars. Straight interlocks 
+should be used when delicate shut-offs protrude from 
+one half of the mold to the other. When shut-offs are 
+not an issue, tapered interlocks are an acceptable 
+option. 
+5. STEPPED INSERT BORES - A slight change 
+in the upper and lower bore sizes (usually 1/16" or 
+1/8"). They are inccnporated in any mold plate and 
+corresponding round insert ("A" or "B" side) which 
+carries radial water cooling. The purpose is to 
+provide a smooth uninterrupted ramp for O-rings to 
+enter their seats without tearing. 
+
+1. TOP CLAMP PLATE - The plate which is used 
+to locate and secure the mold to the 'IA" side of the 
+molding machine. This plate canies the locating Ting 
+and generally the head of the sprue bushing. It is 
+aligned to the "N' plate with tube dowels. It can also 
+serve as a flat, ground surface for the cavities to rest 
+upon. 
+2. A" PLATE - The plate which holds the cavity 
+inserts, any optional cavity slide cores and 
+mechanisms retracted before P/L opening, and water 
+cooling lines. The sprue bushing passes through it en 
+route to the P/L. The "A" plate is aligned to the "B" 
+plate with leader pins and P/L interlocks (if 
+applicable). 
+3. It BIT PLATE - This plate holds the core inserts, 
+core pins, any optional slide core pins retracted after 
+P/L opening but before ejection, and water cooling 
+lines. Alignment of the "Bli plate to the support plate 
+is governed by tube dowels. 
+NOTE: The 'tA" and '1B" plates are generally 
+0.0005" to 0.002" thinner than the height of the 
+cavity or core on cold runner molds which have 
+runners on the main parting line. This helps assure 
+good P/L shut-offs. The flash factor of the plastic 
+being used will detennine the exact amount. 
+4. SUPPORT PLATE - Any plate which backs up 
+the core or cavities. The best example would be the 
+"B" support plate in a standard mold base as 
+illustrated above. The support plate can provide a 
+flat, ground surface for the cores to rest on. 
+5. EJECTOR RAILS - These rails provide the 
+clearance needed to allow the ejector plates to travel 
+forward during ejection of the part while maintaining 
+the mold stack height. Rails are generally attached to 
+a bottom clamp plate depending on the application 
+and are notched to provide for the molding machine 
+clamps. They are aligned to the bottom clamp plate 
+and the support plate with tube dowels. 
+6. - 7. EJECTOR PLATES - ( Detail 6 is the 
+Ejector Retainer Plate, Detail 7 is the Ejector Plate) A 
+set of moving plates, usually two, fastened together 
+to hold the ejector pins and retum pins as well as any 
+optional ejector sleeves, blades or lifters. They are 
+located inside the ejector housing and slide along the 
+guided ejector pins on bushings. They are generally 
+activated by the molding machine's ejector system 
+which is sequenced to operate at the required moment 
+in the molding cycle. A 2-stage ejector system will 
+have 2 sets of ejector plates. 
+
+8. MOLD BASE SCREWS - fief. page 4-3) - 
+Usually socket head cap screws (SHCS) which are 
+used to hold the mold base plates together. 
+9. WATER LINES - Water channels - drilled holes 
+or machined shapes used to convey cooling water 
+throughout the mold. Profitable molding is 
+extremely dependent upon allowing for the lowest 
+amount of time finished molded parts remain in the 
+cooling cycle. This is why sizing and positioning of 
+water lines are so important. 
+10. HOLLOW DOWEL - (ref. page 4-7) - (Also 
+know as a Tube Dowel) In this case it is used to 
+align the support plate the rail housing and the '1B" 
+plate. Hollow dowels are generally positioned in the 
+offset corner and the corner diagonally opposite of 
+the offset corner. They are designed to align the 
+mold plates at their O.D. and allow the fastening 
+screws to pass through their I.D. 
+11. CLAMPING SLOTS - (ref. page 4-4) - Slots 
+cut into both sides of the mold and usually running 
+vertically in the press. They are used to clarnp the 
+mold into the machine, They must be machined long 
+enough to provide for four clamps on each mold half. 
+12. BOTTOM CLAMP PLATE The plate which 
+is used to secure the mold to the "B" side of the 
+molding machine. When used in conjunction with a 
+set of rails, the assembly is known as an ejector 
+housing (See item #14). Clearance holes are 
+provided for the MKO studs (see item # 18) 
+13. MOLD BASE SCREWS Longer version of 
+item #1. In this case they are used to attach the 
+bottom clamp plate, ejector rails, support plate and 
+"B" plate together. They usually run through a 
+hollow dowel or dowels in the off-set comer and the 
+corner diagonally across from it. (see item #10) 
+14. EJECTOR HOUSING - A structure, usually on 
+the 'IBC' side of the mold, which caries the ejector 
+mechanism. This structure may be a one piece 
+weldment of the ejector rails and the bottom 
+clamping plate or a three piece assembly screwed and 
+doweled together. 
+
+15. SUPPORT PILLARS - (ref. page 4-6) solid 
+diameter or irregular shaped bars of suitable length to 
+span the distance between the back of the "B" support 
+plate and the inside sulface of the bottom clamp 
+plate. They are generally fixed to the bottom clamp 
+plate and a clearance hole is machined through the 
+ejector plates. They help support the mold under 
+Injection and clamping force. Inger molds may 
+require that suppofl pillars be ground with a slight 
+pre-load to prevent plate flexing under high injection 
+force. 
+16. - 17. GUIDED EJECTION ( Detail 16 is the 
+Guided Ejector Bushing and Detail 17 is the Guided 
+Ejector Pin) (ref. page 4-7) - An integral part of the 
+ejector mechanism used to confiol the alignment of 
+the ejector and the ejector retainer plates. It usually 
+consists of a bronze coated bushing and a standard 
+guide pin. The bushing is fitted in the ejector 
+assembly plates and is held in place by the bushing's 
+shoulder in the ejector plate. The guide pin is 
+generally retained in the bottom clamping plate and is 
+suspended through the guided ejector bushing in the 
+ejector plates and continues through to the bottom of 
+the suppolt plate. There are generally four in a mold 
+with one set in each quadrant. The set located in the 
+"O" comer is usually offset. 
+18. MKO STUDS - (Machine Knock-out studs) - 
+Usually a hexagonal bar tapped 1/2-13 on one end 
+and threaded 1/2-13 on the opposite end. They fasten 
+to the ejector plate or su•ipper plate. The tapped end 
+ties into the molding machine ejector system. This 
+assuaes a positive forward and retum action for the 
+ejector plates. MKO studs should be flush with the 
+back of the bottom clamping plate. When this is 
+done, the molding machine requires only one set of 
+ejector bars which come flush with the face of the 
+"B" platen. 
+1. EJECTOR PINS - oef. page 4-8) - (Also known 
+as Knock-Out or K,O.pins) A headed pi_n which is 
+used to push the molded parts and/or runners from 
+the mold. The pin is held in the mold between the 
+ejector plate and the ejector retaining plate. These 
+plates control the movement of the pins on the 
+ejection stroke. Running clearance is related to the 
+0.1). of the pins as well as the flash factor of the 
+plastic material being injected into the mold. 
+2. SPRUE PULLER - (ref. page 4-7) A feature 
+which assists the removal of the sprue from the sprue 
+bushing. It can be an undercut machined into the 
+mold and located on the same centerline as the spue 
+or it can also be a pin with an undercut shape 
+machined into its end which proü-udes into the melt 
+flow path. The undercut feature varies with the 
+plastic material requirements. 
+3. STOP BUTTONS - A headed pin with its shank 
+diameter lightly press fitted into tbe rear of the 
+ejector plate or into the inside surface of the bottom 
+clamp plate. The head rests between the ejector plate 
+and the inside surface of the bottom clamp plate. The 
+air space created by the head thickness allows any 
+foreign matter to be dispelled from the ejector 
+housing and provides for easily 
+controllable 
+establishment of the ejector pin base datum point. 
+4. RETURN PINS (ref. page 4-6)- A headed pin 
+usually 5/8" or 3/4" in diameter incorporated to 
+prevent accidental cavity damage by ejector pins, 
+sleeves or blades. It is retained between the ejector 
+plates and passes through the mold to the main 
+paning line. On mold opening with the ejector plates 
+in the forward position, it generally protrudes beyond 
+the parting line. If, on mold closing, the ejector 
+plates have not moved back through molding 
+machine activation or spring returned ejector plates, 
+these pins are pushed back upon contact with the 
+half of the mold. This action, if implemented, returns 
+the ejector plates to the rearward position thereby 
+aborting cavity damage. 
+5. SPRINGS / COIL - Normally purchased items 
+that can be obtained in various lengths, diameters 
+and load factors. They are used to move desired 
+components or assist in their movement. Purchased 
+springs are generally color-coded to denote the 
+tension strength. Springs are not considered a 
+positive method of movement. If a positive 
+movement is required then a positive mechanical 
+movement must be engineered within the mold to 
+assure that the movement will occur. Note: Spring 
+life expectancy is relatively sh01t if springs are 
+compressed more than 35% of their free length 
+during mold operation. 
+6.-7. LEADER PIN BUSHINGS / LEADER PINS 
+- (ref, page 4-3) - A pin and bushing system used to 
+control the alignment of the mold plates. One side of 
+the mold contains the pin and the other the bushing. 
+There are four pins & bushings per mold, located at 
+the outer comers. One bushing set is offset from the 
+others to control the correct assembly. The affected 
+offset corner is identified by an 'O" stamped on the 
+appropliate corner of the mold base. It is normally 
+found on the top of the mold on the operator side. 
+8. LOCATING RING - The locating ling locates 
+the mold in the molding machine (It provides central 
+location only). It protrudes approximately 7/32" 
+above the top clamp surface and locates into a recess 
+in the molding machine stationary platen. 
+9. SPRUE - (ref. page 4-3) This is the primary feed 
+channel from the molding machine injection unit to 
+the runner channel. It is a conical shape with its 
+small diameter mating with the injection unit. This 
+small diameter breaks away from the molding 
+machine melt flow at the nozzle when the mold 
+opens. The sprue is pulled from the "A" side on mold 
+opening and ejected with the runner. The orifice of 
+the sprue is sized according to the plastic material 
+being molded. Small orifices are used on easier 
+flowing, shear resistant materials. Larger orifices are 
+needed on spmes feeding materials which are shear 
+sensitive and molds which require large unounts of 
+plastic per shot. 
